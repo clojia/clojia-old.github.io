@@ -1,1 +1,1 @@
-![image](https://clojia.github.io/images/Screen%20Shot%202018-08-24%20at%203.28.25%20PM.png) 
+[<img src="https://clojia.github.io/images/Screen%20Shot%202018-08-24%20at%203.28.25%20PM.png">](https://clojia.github.io/posts/2018-08-IR-DL)
