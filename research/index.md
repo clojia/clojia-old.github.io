@@ -6,5 +6,5 @@
 - [Learning a Neural-network-based Representation for Open Set Recognition (*Mehadi Hassen, Philip K. Chan*)](https://clojia.github.io/research/2018-08-IR-Open-Set-Recognition)
 
 ## WEEK TWO
-- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier (*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*)]((https://clojia.github.io/research/2018-08-IR-LIME))
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier (*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*)](https://clojia.github.io/research/2018-08-IR-LIME)
 - Towards Open Set Deep Networks (*Abhijit Bendale, Terrance E. Boult*)
