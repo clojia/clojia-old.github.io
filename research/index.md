@@ -9,4 +9,4 @@
 
 ## WEEK TWO
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier (*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*)](https://clojia.github.io/research/2018-08-LIME)
-- [Towards Open Set Deep Networks (*Abhijit Bendale, Terrance E. Boult*)](https://clojia.github.io/research/2018-08-OpenMax)
+- [Towards Open Set Deep Networks (*Abhijit Bendale, Terrance E. Boult*)](https://clojia.github.io/research/2018-08-IR-OpenMax)
