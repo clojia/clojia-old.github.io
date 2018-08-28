@@ -1,0 +1,27 @@
+[Home](https://clojia.github.io/) | [Research](https://clojia.github.io/research/) | [Last](https://clojia.github.io/research/2018-08-IR-LIME)
+
+## Index
+
+M. T. Ribeiro, S. Singh, and C. Guestrin. "Why Should I Trust You?":
+Explaining the Predictions of Any Classifier. In SIGKDD, 2016
+
+[github](https://gist.github.com/shagunsodhani/bd744ab6c17a2289ca139ea586d1d65e)
+
+## Motivation
+
+- Interpretable data representation
+- better feature engineering
+
+
+## Approach
+- LIME
+- SP-LIME
+
+## Limitation 
+
+
+## Problems
+1. held-out accuracy?
+2. local fidelity?
+3. submodule pick
+4. parzen window (kernel density estimation)
