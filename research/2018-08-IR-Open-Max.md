@@ -9,7 +9,7 @@ In CVPR, 2016.
 
 ## Motivation
 
-- Estimates the probability of an input being from an unknown calss
+While deep networks have produced significant gains in computer vison field, it is easily fooled with images humans do not consider meaningful. i.e. It is normally difficult to recognize "unknown" aka.unlabeled problem, which is called open set. This paper introduced a algorithm OpenMax 
 
 ## Approach
 - meta-recognition
