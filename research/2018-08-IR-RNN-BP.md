@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Research](https://clojia.github.io/research/) | [Last](https://clojia.github.io/research/2018-08-IR-Open-Max)
+[Home](https://clojia.github.io/) | [Research](https://clojia.github.io/research/) | [Last](https://clojia.github.io/research/2018-08-IR-Open-Max) | [Next](https://clojia.github.io/research/2018-08-IR-Dist-Rep)
 
 ## Index
 
@@ -52,6 +52,3 @@ the derivatives of weights respect to ht-1 look like:
 
 [<img src="https://github.com/clojia/clojia.github.io/blob/master/images/lstm_wh.png" width="400"/>]
 
-
-## Limitation 
-General introduction. 
