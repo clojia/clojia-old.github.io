@@ -4,12 +4,12 @@
 `papers` & `summaries` & `ideas` on `Machine Learning`
 
 ## WEEK ONE
-- [Deep Learning (*Yann LeCun, Yoshua Bengio & Geoffrey Hinton*)](https://clojia.github.io/research/2018-08-IR-DL)
-- [Learning a Neural-network-based Representation for Open Set Recognition (*Mehadi Hassen, Philip K. Chan*)](https://clojia.github.io/research/2018-08-IR-Open-Set-Recognition)
+- [Deep Learning](https://clojia.github.io/research/2018-08-IR-DL)
+- [Learning a Neural-network-based Representation for Open Set Recognition](https://clojia.github.io/research/2018-08-IR-Open-Set-Recognition)
 
 ## WEEK TWO
-- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier (*Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*)](https://clojia.github.io/research/2018-08-IR-LIME)
-- [Towards Open Set Deep Networks (*Abhijit Bendale, Terrance E. Boult*)](https://clojia.github.io/research/2018-08-IR-Open-Max)
+- [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://clojia.github.io/research/2018-08-IR-LIME)
+- [Towards Open Set Deep Networks](https://clojia.github.io/research/2018-08-IR-Open-Max)
 
 ## WEEK THREE
 - [A Gentle Tutorial of Recurrent Neural Network with Error Backpropagation](https://clojia.github.io/research/2018-08-IR-RNN-BP)
