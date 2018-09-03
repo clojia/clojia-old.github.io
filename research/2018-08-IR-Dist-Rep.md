@@ -13,7 +13,7 @@ Objective function of skip-gram:
 
 <img src="https://github.com/clojia/clojia.github.io/blob/master/images/skipgram.png" width="300">
 
-specifically, through softmax layer, p(Wt+j|wt) looks like:
+specifically, through softmax layer, p looks like:
 
 <img src="https://github.com/clojia/clojia.github.io/blob/master/images/skipgramp.png" width="300"> 
 
