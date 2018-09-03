@@ -32,7 +32,7 @@ Note that the method is only for word representation rather than classification.
 - Subsampling
 There is imbalance between the rare and frequent words. The paper suggested a simple subsampling approach, assigning each wrod a discarded probability:
 
-<img src="https://github.com/clojia/clojia.github.io/blob/master/images/sub.png" width="400"/> 
+<img src="https://github.com/clojia/clojia.github.io/blob/master/images/sub.png" width="200"/> 
 
 where f(wi) is the frequent of word wi and t is threshold.
 
