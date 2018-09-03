@@ -12,4 +12,6 @@
 - [Towards Open Set Deep Networks (*Abhijit Bendale, Terrance E. Boult*)](https://clojia.github.io/research/2018-08-IR-Open-Max)
 
 ## WEEK THREE
-- A Gentle Tutorial of Recurrent Neural Network with Error Backpropagation
+- [A Gentle Tutorial of Recurrent Neural Network with Error Backpropagation](https://clojia.github.io/research/2018-08-IR-RNN-BP)
+- [Distributed Representations of Words and Phrases
+and their Compositionality](https://clojia.github.io/research/2018-08-Dist-Rep)
