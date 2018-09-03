@@ -15,3 +15,7 @@
 - [A Gentle Tutorial of Recurrent Neural Network with Error Backpropagation](https://clojia.github.io/research/2018-08-IR-RNN-BP)
 - [Distributed Representations of Words and Phrases
 and their Compositionality](https://clojia.github.io/research/2018-08-Dist-Rep)
+
+## WEEK FOUR
+- Learning to Forget: Continual Prediction with LSTM
+- Generative Adversarial Nets
