@@ -13,21 +13,21 @@ Focus on basics of backpropagation in recurrent nerual networks (RNN) and long s
 
 The paper introduced the objective function of RNN:
 
-[<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_objf.png" width="200"/>]
+<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_objf.png" width="200"/>
 
 Also three different types of parameters/weights: input layer to hidden layer (Wxh), hidden layer to output layer (Whz) and hidden layer between time sequences (Whh). Based on chain rule and total derivatives, using backpropagation to compute their derivatives:
 
 Whz:
 
-[<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_hz.png" width="200"/>]
+<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_hz.png" width="200"/>
 
 Whh:
 
-[<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_hh.png" width="400"/>]
+<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_hh.png" width="400"/>
 
 Wxh:
 
-[<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_xh.png" width="400"/>]
+<img src="https://github.com/clojia/clojia.github.io/blob/master/images/rnn_xh.png" width="400"/>
 
 
 - LSTM
@@ -46,9 +46,9 @@ Also introduces the memory information (cell) and be able to handle long sequent
 
 Using backpropagation, the derivatives of weights respect to X look like:
 
-[<img src="https://github.com/clojia/clojia.github.io/blob/master/images/lstm_wx.png" width="400"/>]
+<img src="https://github.com/clojia/clojia.github.io/blob/master/images/lstm_wx.png" width="400"/>
 
 the derivatives of weights respect to ht-1 look like:
 
-[<img src="https://github.com/clojia/clojia.github.io/blob/master/images/lstm_wh.png" width="400"/>]
+<img src="https://github.com/clojia/clojia.github.io/blob/master/images/lstm_wh.png" width="400"/>
 
