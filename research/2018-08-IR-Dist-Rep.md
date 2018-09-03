@@ -18,11 +18,13 @@ specifically, through softmax layer, p(Wt+j|wt) looks like:
 <img src="https://github.com/clojia/clojia.github.io/blob/master/images/skipgramp.png" width="300"> 
 
 - Hierarchical softmax
+
 Hierachical softmax uses a binary tree to present the output layer rather than a plat output of all W words for output dimension reduction. So that the computing would be much more efficient. The method is to replace the softmax layer with:
 
 <img src="https://github.com/clojia/clojia.github.io/blob/master/images/hs.png" width="400"> 
 
 - Negative sampling
+
 Another technique to speedup training process, inspired by Noise Constractive Estimation (NCE). The basic idea is sample one "accruate" data P(1) and k noise data P(0), the objective is to maximum their conditional log-likelihood:
 
 <img src="https://github.com/clojia/clojia.github.io/blob/master/images/ns.png" width="400"> 
@@ -30,6 +32,7 @@ Another technique to speedup training process, inspired by Noise Constractive Es
 Note that the method is only for word representation rather than classification.
 
 - Subsampling
+
 There is imbalance between the rare and frequent words. The paper suggested a simple subsampling approach, assigning each wrod a discarded probability:
 
 <img src="https://github.com/clojia/clojia.github.io/blob/master/images/sub.png" width="200"> 
