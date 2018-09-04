@@ -11,7 +11,7 @@ Skip-gram model has achieved good performance in learning "high-quality vector r
 ## Approach
 Objective function of skip-gram:
 
-<img src="https://github.com/clojia/clojia.github.io/blob/master/images/skipgram.png" width="300">
+<img src="../images/skipgram.png" width="300">
 
 specifically, through softmax layer, p looks like:
 
