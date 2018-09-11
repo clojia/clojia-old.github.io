@@ -17,5 +17,5 @@
 and their Compositionality](https://clojia.github.io/research/2018-08-IR-Dist-Rep)
 
 ## WEEK FOUR
-- [Learning to Forget: Continual Prediction with LSTM](https://clojia.github.io/research/2018-08-IR-LSTM)
-- [Generative Adversarial Nets](https://clojia.github.io/research/2018-08-IR-GANs)
+- [Learning to Forget: Continual Prediction with LSTM](https://clojia.github.io/research/2018-09-IR-LSTM)
+- [Generative Adversarial Nets](https://clojia.github.io/research/2018-09-IR-GANs)
