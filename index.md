@@ -1,2 +1,5 @@
 [<img src="../images/research.png" width="410"/>](https://clojia.github.io/research/)
 [<img src="../images/airbnb.jpg" width="410"/>](https://clojia.github.io/research/)
+[<img src="../images/sa.jpg" width="410"/>](https://clojia.github.io/research/)
+[<img src="../images/java.jpg" width="410"/>](https://clojia.github.io/research/)
+[<img src="../images/master.jpg" width="410"/>](https://clojia.github.io/research/)
