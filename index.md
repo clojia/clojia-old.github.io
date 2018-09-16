@@ -1,4 +1,4 @@
-[<img src="../images/AboutMe.jpg" width="100"/>](https://clojia.github.io/research/)
+[<img src="../images/AboutMe.jpg" style="float: right;" width="150"/>](https://clojia.github.io/research/)
 
 [<img src="../images/research.png" width="320"/>](https://clojia.github.io/research/)
 [<img src="../images/airbnb.jpg" width="320"/>](https://clojia.github.io/airbnb_challenge/)
