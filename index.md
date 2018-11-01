@@ -1,8 +1,6 @@
 [<img src="images/research.png" width="300"/>](https://clojia.github.io/independent_research/)
 [<img src="images/open-set.png" width="300"/>](https://clojia.github.io//)
-
 [<img src="images/airbnb.jpg"  width="300"/>](https://clojia.github.io/airbnb_challenge/)
 [<img src="images/sa.jpg" width="300"/>](https://clojia.github.io/sentimental_analysis/)
-
 [<img src="images/java.png"  width="300"/>](https://clojia.github.io/py_model_in_java/)
 [<img src="images/master.jpg" width="300"/>](https://clojia.github.io/bus_tracker/)
